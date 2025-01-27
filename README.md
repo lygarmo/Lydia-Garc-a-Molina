@@ -9,7 +9,22 @@ Bienvenid@ a mi perfil de GitHub. Aquí encontrarás mis proyectos, mis habilida
 - **Otros:** Git, PHPMailer, desarrollo web responsivo, trabajo en equipo  
 
 
-## 📂 Proyectos Destacados  
-- **[Gestión de Stock para Tienda de Videojuegos](https://github.com/usuario/proyecto-stock-videojuegos):** Aplicación web para gestionar inventarios de videojuegos.  
-- **[Aplicación FCT](https://github.com/usuario/proyecto-fct):** Sistema para registro y gestión de usuarios, profesores, alumnos y empresas.  
-- **[Página Web Personal](https://github.com/usuario/mi-web-personal):** Mi espacio en la web con enlaces a mi CV, formación y redes sociales.  
+## 🚀 Proyectos Destacados
+🔹 Aplicación FCT
+Descripción: Sistema para registro y gestión de usuarios, profesores, alumnos y empresas.
+Tecnologías: HTML y JavaScript
+Características principales:
+
+Gestión de permisos y roles de usuario
+
+
+🔹 Página Web Personal
+Descripción: Página web que incluye mi CV, formación y enlaces a redes sociales.
+Tecnologías: HTML, CSS, JavaScript
+Características principales:
+
+Diseño moderno y minimalista
+Integración con LinkedIn y GitHub
+
+
+
