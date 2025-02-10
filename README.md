@@ -29,26 +29,26 @@ Bienvenid@ a mi perfil de GitHub. Aquí encontrarás mis proyectos, mis habilida
 
 
 ## 🤝 Cómo Contribuir
-Si te gustaría contribuir a alguno de mis proyectos:
+Si te gustaría contribuir a alguno de mis proyectos:  
 
-1️⃣ Haz un fork del repositorio
-2️⃣ Crea una rama con tu mejora:
+1️⃣ Haz un fork del repositorio  
+2️⃣ Crea una rama con tu mejora:  
 
-bash
-Copiar
-Editar
-git checkout -b mi-nueva-funcionalidad
-3️⃣ Realiza tus cambios y haz commit:
+bash  
+Copiar  
+Editar  
+git checkout -b mi-nueva-funcionalidad  
+3️⃣ Realiza tus cambios y haz commit:  
 
-bash
-Copiar
-Editar
-git commit -m "Añadida nueva funcionalidad"
-4️⃣ Envía un pull request
+bash  
+Copiar  
+Editar  
+git commit -m "Añadida nueva funcionalidad"  
+4️⃣ Envía un pull request  
 
 ## 📜 Licencia
 Mis proyectos están bajo la licencia MIT.
 
-📩 Contacto
-📧 Email: lygarmo@gmail.com
+## 📩 Contacto  
+📧 Email: lygarmo@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/lygarmo
