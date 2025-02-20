@@ -8,6 +8,8 @@ Bienvenid@ a mi perfil de GitHub. Aquí encontrarás mis proyectos, mis habilida
   📌 Herramientas y Frameworks: MySQL, Laravel, React, Bootstrap  
   📌 Otros: Git, PHPMailer, desarrollo web responsivo, trabajo en equipo  
 
+  
+
 ## 🚀 Proyectos Destacados
 ### 🔹 Aplicación FCT
   📌 Descripción: Sistema para registro y gestión de usuarios, profesores, alumnos y empresas.  
@@ -18,6 +20,7 @@ Bienvenid@ a mi perfil de GitHub. Aquí encontrarás mis proyectos, mis habilida
 
 ➡️ Ver Proyecto -> https://github.com/lygarmo/Desarrollo-web-en-entorno-cliente/tree/main/SPRINT3-LydiaGarciaMolina
 
+
 ### 🔹 Página Web Personal
   📌 Descripción: Página web que incluye mi CV, formación y enlaces a redes sociales.    
   📌 Tecnologías: HTML, CSS, JavaScript  
@@ -26,6 +29,7 @@ Bienvenid@ a mi perfil de GitHub. Aquí encontrarás mis proyectos, mis habilida
     ✔️ Integración con LinkedIn y GitHub   
 
 ➡️ Ver Proyecto -> https://github.com/lygarmo/Dise-o-de-interfaces-web/tree/main/diseño_pagina_web_Lydia
+
 
 
 ## 🤝 Cómo Contribuir
@@ -46,8 +50,10 @@ Editar
 git commit -m "Añadida nueva funcionalidad"  
 4️⃣ Envía un pull request  
 
+
 ## 📜 Licencia
 Mis proyectos están bajo la licencia MIT.
+
 
 ## 📩 Contacto  
 📧 Email: lygarmo@gmail.com  
