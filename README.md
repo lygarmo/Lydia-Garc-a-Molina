@@ -4,9 +4,11 @@ Desarrolladora de Aplicaciones Web | Apasionada por la Tecnología y el Desarrol
 Bienvenid@ a mi perfil de GitHub. Aquí encontrarás mis proyectos, mis habilidades y un poco más sobre mí.
 
 ## 🛠️ Habilidades Técnicas
-  📌 Lenguajes: Java, JavaScript, PHP, HTML, CSS  
-  📌 Herramientas y Frameworks: MySQL, Laravel, React, Bootstrap  
-  📌 Otros: Git, PHPMailer, desarrollo web responsivo, trabajo en equipo  
+  📌 Lenguajes: Java, JavaScript, PHP, HTML y CSS  
+  📌 Herramientas: MySQL, Bootstrap  
+  📌 Inteligencia artificial: ChatGPT y Deepseek
+  📌 Sistemas operativos: Windows y Linux
+  📌 Otros: Git, PHPMailer, desarrollo web responsivo  
 
   
 
